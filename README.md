@@ -22,8 +22,8 @@ pip install pandas re
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/repo_name.git
-    cd repo_name
+    git clone https://github.com/jsun9003/ProcessIPMS.git
+    cd ProcessIPMS
     ```
 2. Place your input files in the `./01_CleanInput/` directory.
 
